@@ -1,0 +1,118 @@
+body{
+    background-color: gray;
+}
+.head{
+    text-align: center;
+    background-color:rgb(242, 235, 235);
+    color: gray;
+    width: 1000px;
+    height:90px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 10px;
+    
+}
+h1{
+    padding-top: 30px;
+    font-weight:500;
+    font-size: 20px;
+}
+.nav{
+    text-align: center;
+    background-color:rgb(242, 235, 235);
+    color: gray;
+    width: 1000px;
+    height:90px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 10px;
+}
+.nv{
+    padding-top: 30px;
+    font-weight:500;
+    font-size: 20px; 
+}
+.divsec{
+    display:inline-block;
+    position: relative;
+    background-color:rgb(242, 235, 235);
+    width: 600px;
+    margin-left: 250px;
+    margin-top:20px ;
+    height: 300px;
+}
+.sc{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-weight:500;
+    font-size: 20px;
+    color: gray;
+    text-align: center;
+}
+.art{
+    background-color: gray;
+    padding-top: 30px;
+    font-weight:500;
+    font-size: 20px;
+    color:rgb(242, 235, 235);
+    margin-left: 10px;
+margin-right: 10px;
+height: 80px;
+text-align: center;
+padding-bottom: 100px;
+}
+
+.h123{
+    font-weight:700;
+    padding-bottom: 10px;
+    text-align: center;
+    color: gray;
+    background-color: rgb(242, 235, 235);
+    margin-left: 15px;
+ margin-right: 15px;
+}
+.p1{
+    
+    font-weight: 400;
+    padding-bottom: 10px;
+    background-color: rgb(242, 235, 235);
+    color:gray;
+    padding-top: 30px;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+.aside{
+    width: 380px;
+    top: 2px;
+height: 300px;;
+    margin-left: 620px;
+    position: absolute;
+    background-color: rgb(242, 235, 235);
+    color:gray;
+    text-align: center;
+
+    font-weight:500;
+    font-size: 20px;
+}
+.as{
+    padding-top: 40px;
+}
+.artt{
+    padding-bottom: 10px;
+}
+.foot{
+    background-color: rgb(242, 235, 235);
+    color: gray;
+    margin-left: 250px;
+    margin-right: 250px;
+    width:1000px;
+    height: 90px;
+    margin-top: 20px;
+    text-align: center;
+}
+.footer{
+    font-size: 20px;
+    padding-top: 30px;
+}
